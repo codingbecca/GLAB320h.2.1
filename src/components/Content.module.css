@@ -1,8 +1,8 @@
 .book {
     border: 2px solid lightgray;
     border-radius: 8px;
-    max-width: 400px;
-    margin: 0.8rem auto;
+    width: 400px;
+    margin: 0.8rem;
     padding: 0.4rem;
 
 }
